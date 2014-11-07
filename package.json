@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-button",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 0ac04faf848f888b7ab2665e967025a5f995a6bd
   "title": "Semantic UI - Button",
   "description": "Single component release of button",
   "homepage": "http://www.semantic-ui.com",
