@@ -1,3 +1,20 @@
+### Version 1.3.1 - December 17, 2014
+
+- **Button** - Dist version of button accidentally included ``chubby`` theme instead of ``default`` theme
+
+### Version 1.3.0 - December 17, 2014
+
+- **Button** - Button "or" positioning variables have been adjusted to be automatically calculated without magic numbers
+- **Button** - Add tabindex /keyboard nav documentation
+
+### Version 1.1.0 - December 02, 2014
+
+- **Input** - ``ui action input`` can now accomodate ``ui button`` that adjust padding from default
+
+### Version 1.0.1 - November 28, 2014
+
+- **Card/Item** - Fix generic link stylings erroneously affecting linked ui elements like buttons
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Button** - Now has compact form, used for fitting into tight spaces
