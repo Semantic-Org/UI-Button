@@ -1,3 +1,11 @@
+### Version 1.4.1 - December 23, 2014
+
+- **Button** - Fixes issue with ``will-change`` property added to ``ui button`` causing layout z-indexing issues (dropdown button)
+
+### Version 1.4.0 - December 22, 2014
+
+- **Button** - Fix Chrome bug with buttons sometimes not correctly repainting (particularly evenly divided groups)
+
 ### Version 1.3.1 - December 17, 2014
 
 - **Button** - Dist version of button accidentally included ``chubby`` theme instead of ``default`` theme
