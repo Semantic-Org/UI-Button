@@ -1,3 +1,20 @@
+### Version 1.7.0 - January 14, 2015
+
+- **Button** - Fix issue with labeled icon groups in material theme
+
+### Version 1.6.2 - January 06, 2015
+
+- **Button** - Fixes active orange button color
+
+### Version 1.5.1 - January 01, 2015
+
+- **Button** - Fixed vertical alignment of ``ui animated button``
+
+### Version 1.5.0 - December 30, 2014
+
+- **Input** - Fixed bug when ``ui action input`` uses a ``ui icon button``, button was receiving `i.icon` formatting.
+- **List** - Fixed bug when using ``ui icon button`` or ``ui icon header`` causing element to receive icon formatting
+
 ### Version 1.4.1 - December 23, 2014
 
 - **Button** - Fixes issue with ``will-change`` property added to ``ui button`` causing layout z-indexing issues (dropdown button)
