@@ -1,5 +1,22 @@
-<<<<<<< HEAD
-=======
+##### LESS Component Imports
+
+* You can also import individual definitions using `@import 'src/definitions/elements/button'`.
+
+### UI Changes
+
+- **Input** - Input with dropdowns is now much easier, see docs. `action input` and `labeled input` now use `display: flex`. `ui action input` now supports `<button>` tag usage (!) which support `flex` but not `table-cell`
+- **Button** - Loading buttons no longer receive `pointer-events` in default theme. Added variable for `loading button` opacity.
+- **Card** - Star / Like button colors have been fixed to match `ui rating` inside `card`
+
+### Version 1.8.1 - January 26, 2015
+
+- **Input** - Fix border radius on `ui action input` with button groups, aka `ui buttons`
+
+### Version 1.8.0 - January 23, 2015
+
+- **Button** - ``ui vertical basic buttons` now have dividers in default theme
+- **Button** - Fixes formatting for `disabled button` inside `ui buttons`
+
 ### Version 1.7.0 - January 14, 2015
 
 - **Button** - Fix issue with labeled icon groups in material theme
@@ -119,4 +136,3 @@
 - Adds automatic menu formatting for buttons inside menus
 
 ### Version 0.1.0 - Sep 25, 2013
->>>>>>> c7d8dc6f03a89b5115bdff3a8fc4fcad84d64b8f
