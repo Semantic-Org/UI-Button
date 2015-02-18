@@ -1,0 +1,17 @@
+{
+  "name": "semantic-ui-button",
+  "version": "1.9.1",
+  "title": "Semantic UI - Button",
+  "description": "Single component release of button",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {}
+}
