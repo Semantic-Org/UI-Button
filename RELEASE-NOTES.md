@@ -1,3 +1,7 @@
+### Version 1.9.1 - February 18, 2015
+
+& { @import 'src/definitions/elements/button'; }
+
 ##### LESS Component Imports
 
 * You can also import individual definitions using `@import 'src/definitions/elements/button'`.

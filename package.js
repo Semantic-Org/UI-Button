@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-button',
   summary : 'Semantic UI - Button (official): Single component release of button',
-  version : '1.9.0',
+  version : '1.9.2',
   git     : 'git://github.com/Semantic-Org/UI-Button.git',
 });
 
