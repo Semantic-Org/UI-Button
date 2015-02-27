@@ -1,3 +1,7 @@
+### Version 1.10.3 - February 27, 2015
+
+- **Button** - Fixes `<button>` inside `vertical buttons` not taking full container width
+
 ### Version 1.9.1 - February 18, 2015
 
 & { @import 'src/definitions/elements/button'; }
