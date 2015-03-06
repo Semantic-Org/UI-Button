@@ -1,3 +1,7 @@
+### Version 1.11.2 - March 6, 2015
+
+- **Modal** - Fixes modal `buttons` on mobile devices to not have extra bottom padding.
+
 ### Version 1.10.3 - February 27, 2015
 
 - **Button** - Fixes `<button>` inside `vertical buttons` not taking full container width
