@@ -1,3 +1,15 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Modal** - Modal will now only close on buttons matching `deny` or `approve` selector. Any button that should hide modal on click should either match one of these selectors, or call `$('.ui.modal').modal('hide')` `onclick`.
+- **Button** - `wide` variations using numbers `2 wide`, `3 wide` have been removed due to incompatibilities with some build tools. Please use `two wide`, or `three wide` instead.
+- **Button** - Added `:focus` styles for all button types, all button examples in docs now are keyboard focusable using either `<button>` or `tabindex` where appropriate.
+- **Input** - Action input now supports multiple buttons, and dropdown
+- **Button** - Fixed `attached buttons` 1px offset when attached to segment and menu (border vs box shadow border)
+- **List** - `a` elements inside a `ui list` will no longer apply styles on `ui` elements like `button` **Thanks @ahtinurme**
+- **Search** - Fix `loading search` with an `icon button` causing double loaders.
+- **Button** - Button focus color now uses hoverColor background instead of blue box shadow
+- **Button** - `basic colored button` now grow their border size to 2px in default theme on hover
+
 ### Version 1.11.2 - March 6, 2015
 
 - **Modal** - Fixes modal `buttons` on mobile devices to not have extra bottom padding.
@@ -112,7 +124,7 @@
 
 ### Version 0.9.3 - Nov 17, 2013
 
-- **Button** - Fixes improper active/visible state due to :not specificity (most noticiable in mousedown on a dropdown button)
+- **Button** - Fixes improper active/visible state due to :not specificity (most noticeable in mousedown on a dropdown button)
 
 ### Version 0.9.0 - Nov 5, 2013
 
