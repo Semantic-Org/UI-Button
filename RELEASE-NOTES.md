@@ -1,3 +1,7 @@
+### Version 2.0.7 - July 22, 2015
+
+- **Dropdown** - Fixed border radius on `circular labeled icon button`  [#2700](https://github.com/Semantic-Org/Semantic-UI/issues/2700)
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Button** - Fixed `fluid buttons` not working correctly with `<button>` due to button tags not supporting `flex` rules. [#2617](https://github.com/Semantic-Org/Semantic-UI/issues/2617)
