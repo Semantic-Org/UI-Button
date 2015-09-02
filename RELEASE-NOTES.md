@@ -1,3 +1,14 @@
+#### Features
+
+- **Button** - `colored basic` button are now colored before `:hover` in the default theme, this is more in line with common usage across other websites.
+- **Button** - Added `labeled button` variation for display a count next to a button.
+
+#### Bugs
+
+- **Button** - Fixes inverted button missing an `active` and `active focus` state [#2635](https://github.com/Semantic-Org/Semantic-UI/issues/2635)
+- **Button** - Fixes issue where `basic button` would not have focus color text when colored [#2264](https://github.com/Semantic-Org/Semantic-UI/issues/2264)
+- **Input** `action input` and `labeled input` now have focused border on inner edge with label/button
+
 ### Version 2.0.7 - July 23, 2015
 
 - **Dropdown** - Fixed border radius on `circular labeled icon button`  [#2700](https://github.com/Semantic-Org/Semantic-UI/issues/2700)
