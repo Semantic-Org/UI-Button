@@ -1,3 +1,7 @@
+### Version 2.1.3 - Sep 03, 2015
+
+- **Input** - `action input` now correctly show focused border on button side, and avoids duplicating borders
+
 #### Features
 
 - **Button** - `colored basic` button are now colored before `:hover` in the default theme, this is more in line with common usage across other websites.
