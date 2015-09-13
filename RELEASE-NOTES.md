@@ -1,3 +1,7 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Button** - Fixes `right labeled icon button` with a `right` named icon (for example `right arrow`) having incorrect margin on icon. [#2973](https://github.com/Semantic-Org/Semantic-UI/issues/2973)
+
 ### Version 2.1.3 - Sep 03, 2015
 
 - **Input** - `action input` now correctly show focused border on button side, and avoids duplicating borders
