@@ -1,3 +1,14 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Button** - Added compatibility with `primary` `secondary` `positive` `negative` buttons with the `basic` styling variation. [#3756](https://github.com/Semantic-Org/Semantic-UI/issues/3756)
+- **Button** - Added variables for configuring `disabled` background image and box shadow.
+- **Button** - `right icon` like `right arrow icon` would have additional margin inside an `icon button` [#3525](https://github.com/Semantic-Org/Semantic-UI/issues/3525)
+- **Button** - Fixed issue where `disabled loading button` would not remove `pointer-events` [#2933](https://github.com/Semantic-Org/Semantic-UI/issues/2933)
+- **Button** - Fixed typo in `green inverted button` [#3873](https://github.com/Semantic-Org/Semantic-UI/issues/3873)
+- **Button/Dropdown** - Button dropdowns using `default text` no longer receive incorrect font styling for placeholder text
+- **Checkbox** - Radio buttons received `indeterminate` styles when user has not yet interacted with the page in Chrome
+- **Input** - Fixes issue with `dropdown` or button on the left side of an `action` input not properly rounding
+
 ### Version 2.1.5 - Nov 1, 2015
 
 - **Examples** - All code examples now have a "copy to clipboard" button **Thanks @xiwc and @zenorocha for clipboard.js**
