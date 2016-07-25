@@ -17,6 +17,7 @@
   cursor: pointer;
   display: inline-block;
   min-height: 1em;
+  height: auto;
   outline: none;
   border: none;
   vertical-align: baseline;
