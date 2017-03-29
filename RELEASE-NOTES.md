@@ -1,3 +1,8 @@
+### Version 2.2.10 - March 28, 2017
+
+- **Button** - Fixes `@basicActiveBoxShadow` being used incorrectly in basic button variables
+- **Modal** - `onDeny` and `onApprove` callbacks can no longer occur multiple times if you rapidly click a approve/deny button in a. #4479
+
 #### Dropdown
 
 - **Button** - Fixed issue where css specificity caused `icon buttons` to not center correctly [#4487](https://github.com/Semantic-Org/Semantic-UI/pull/4487)
