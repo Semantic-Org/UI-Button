@@ -1,6 +1,6 @@
 ### Version 2.2.14 - Jan 29, 2018
 
-- **Button** - Youtube's red color now matches their current brand guidelines **Thanks @hammy2899** [#6110](https://github.com/Semantic-Org/Semantic-UI/issues/6110)
+- **Button** - YouTube's red color now matches their current brand guidelines **Thanks @hammy2899** [#6110](https://github.com/Semantic-Org/Semantic-UI/issues/6110)
 
 ### Version 2.2.10 - March 28, 2017
 
