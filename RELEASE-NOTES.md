@@ -1,3 +1,7 @@
+### Version 2.3.2 - June 18, 2018
+
+- **Button** - Add `inverted` and `inverted basic` variations for `primary` and `secondary` buttons  **Thanks @hammy2899** [#6242](https://github.com/Semantic-Org/Semantic-UI/issues/6242)
+
 ### Version 2.2.14 - Jan 29, 2018
 
 - **Button** - YouTube's red color now matches their current brand guidelines **Thanks @hammy2899** [#6110](https://github.com/Semantic-Org/Semantic-UI/issues/6110)
