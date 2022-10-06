@@ -1,3 +1,7 @@
+### Version 2.5.0 - Oct 6, 2022
+
+- **Button** - Fix usage of loading on in labeled button #7023 thanks @flppv
+
 ### Version 2.3.2 - June 18, 2018
 
 - **Button** - Add `inverted` and `inverted basic` variations for `primary` and `secondary` buttons  **Thanks @hammy2899** [#6242](https://github.com/Semantic-Org/Semantic-UI/issues/6242)
